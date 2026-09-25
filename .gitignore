@@ -1,0 +1,9 @@
+# Fichiers Windows
+desktop.ini
+
+# Fichiers temporaires Excel 
+~$* .xlsx
+~$* .xlsx
+
+# Fichiers temporaires
+*.tmp
