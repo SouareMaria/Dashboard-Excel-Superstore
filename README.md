@@ -19,7 +19,7 @@ les ventes, les marges, et les performances régionales.
 
 ## Aperçu & Demo du Dasnboard
 
-! [Dashboard Excel](Images/dashboard-superstore.PNG)
+![Dashboard Excel](Images/dashboard-superstore.PNG)
 
 Want to see the dahboard in action ?
 
